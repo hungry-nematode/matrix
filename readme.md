@@ -1,5 +1,7 @@
 # worm-sim
+## std::cout << "why am i so hungryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy";
 
+## Intro
 The tiny worm C. elegans is one of the simplest multicellular organisms, and one of the only organisms in the world to have its connectome (neuron map) completed.
 
 Despite being so simple, C. elegans exhibits several complex behaviors. They will attempt to move towards food when they sense it, and move around obstacles when they make contact. After viewing a [video](https://www.youtube.com/watch?v=YWQnzylhgHc) of a connectome being used to simulate a worm brain and control a GoPiGo robot, I wanted to see if something similar could be done in the browser.
